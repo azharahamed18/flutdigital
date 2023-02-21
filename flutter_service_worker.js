@@ -3,10 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  "assets/AssetManifest.json": "51f2db1873e99913c0b65c53ca09c1fd",
+"assets/assets/images/facebook.png": "c514091ebce6ddcc5c629eac2de760f4",
+"assets/assets/images/instagram.png": "0f0892af581ab30201a9e45136ea9102",
+"assets/assets/images/linkdin.png": "38bd5fe07cc43811f17fde3b0af8d3b7",
+"assets/assets/images/location.png": "a5d2596099ea3bf20b272a7d16e29131",
+"assets/assets/images/mail.png": "0efa0ee6a358539353d7ddf087d25a94",
+"assets/assets/images/naserbhai.jpeg": "fb5728b4445f8bd1f1e64017b6761535",
+"assets/assets/images/redphone.png": "5fa27983b595bc2b81c021265eac6c2b",
+"assets/assets/images/twitter.png": "1ac19cc180bd5411c8c31919998ab681",
+"assets/assets/images/whatsapp1.png": "421cf77dbd5ac5b6358253d83a5a6dc1",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "8f2b7ab052dfcf4ace9901a3769cab3f",
+"assets/NOTICES": "54be4b3bf0496d884e46fd8323299965",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/shaders/ink_sparkle.frag": "6333b551ea27fd9d8e1271e92def26a9",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
@@ -19,9 +28,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "859d1a8225dd13aef4903e7177aefc6a",
-"/": "859d1a8225dd13aef4903e7177aefc6a",
-"main.dart.js": "6fe9c8830588960f64e8f4257312484f",
+"index.html": "6efa5fdf1e33f0f949607a90588c844b",
+"/": "6efa5fdf1e33f0f949607a90588c844b",
+"main.dart.js": "352a088c16d3a58a6fc57b13dcec4e35",
 "manifest.json": "69e95b7ea5204f6227162e4e1e47dff5",
 "version.json": "8bf594966c8fdb1883c06c418877cdc7"
 };
